@@ -1,1 +1,3 @@
-The primary file is what executes the code. Deck.py is the module that is imported into the primary code containing a number of functions that are necessary for the game to work.
+The primary file is what you run to execute the code. 
+Deck.py is the module that is imported into the primary code containing a number of functions that are necessary for the game to work.
+Deck.py and Primary.py must be in the same directory in order to function.
