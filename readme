@@ -1,0 +1,1 @@
+The primary file is what executes the code. Deck.py is the module that is imported into the primary code containing a number of functions that are necessary for the game to work.
